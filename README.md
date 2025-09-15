@@ -1,6 +1,6 @@
 ## Merhabalar ismim Taha👋
 
-#### tahakartal@hotmail.com
+### Benimle buradan iletişime geçebilirsiniz.
 
 
 **tahakartal06/tahakartal06** is a ✨ _special_ ✨
