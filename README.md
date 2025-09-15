@@ -2,8 +2,7 @@
 
 ### Benimle buradan iletişime geçebilirsiniz.
 
-
-**tahakartal06/tahakartal06** is a ✨ _special_ ✨
+** tahakartal.com
 
 Here are some ideas to get you started:
 
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 
