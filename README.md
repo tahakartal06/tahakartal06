@@ -1,7 +1,7 @@
-## Merhabalar 👋
+## Merhabalar ismim Taha👋
 
 
-**tahakartal06/tahakartal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tahakartal06/tahakartal06** is a ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
