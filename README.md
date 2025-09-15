@@ -2,7 +2,7 @@
 
 ### Benimle buradan iletişime geçebilirsiniz.
 
-** tahakartal.com
+*** tahakartal.com
 
 Here are some ideas to get you started:
 
